@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @izumi-miya-mura
+- 👋 Hi, I’m @NeoOtakuCoder
 - 👀 I’m interested in java
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
